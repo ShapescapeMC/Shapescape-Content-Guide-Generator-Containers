@@ -11,11 +11,11 @@ import json
 
 DIMENSIONS = ["minecraft:overworld", "minecraft:the_nether", "minecraft:the_end"]
 ROOT_PATH = "../"
-CGG_CONTAINERS_PATH = "data/content_guide_generator/templates/containers.md"
+CGG_CONTAINERS_PATH = "data/shapescape_content_guide_generator/templates/containers.md"
 CGG_INTERNAL_CONTAINERS_PATH = (
-    "data/content_guide_generator/templates/interal_containers.md"
+    "data/shapescape_content_guide_generator/templates/interal_containers.md"
 )
-CGG_DEBUG_PATH = "data/content_guide_generator/cg_containers_debug.md"
+CGG_DEBUG_PATH = "data/shapescape_content_guide_generator/cg_containers_debug.md"
 
 IRRELEVANT_BLOCK_ENTITIES = [
     "sign",

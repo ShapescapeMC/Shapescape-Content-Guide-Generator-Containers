@@ -3,23 +3,19 @@
 :caption: Introduction
 
 Installation <introduction/installation>
-Settings <introduction/settings>
 Usage <introduction/usage>
 ```
 
 ![](../header.jpg)
 
-# PLACEHOLDER
-PLACEHOLDER
-
-## 🧑‍🏫 About
-PLACEHOLDER
+# Shapescape Content Guide Generator Containers
+Regolith filter that reads containers from the level and exports them to files readable by the content guide generator.
 
 ## 👷 Contributing
-We welcome contributions from the community! If you'd like to contribute to this project, please read our [contribute file](https://www.github.com/ShapescapeMC/PLACEHOLDER/blob/main/CONTRIBUTING.md) for guidelines on how to get started.
+We welcome contributions from the community! If you'd like to contribute to this project, please read our [contribute file](https://www.github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-Containers/blob/main/CONTRIBUTING.md) for guidelines on how to get started.
 
 ## 🗒️ License
-This project is licensed under the GNU v.3.0 License - see the [LICENSE](https://github.com/ShapescapeMC/PLACEHOLDER/blob/main/LICENSE) file for details.
+This project is licensed under the GNU v.3.0 License - see the [LICENSE](https://github.com/ShapescapeMC/Shapescape-Content-Guide-Generator-Containers/blob/main/LICENSE) file for details.
 
 This license ensures that the tool remains open source, while still allowing you to use the generated content in your commercial Minecraft projects.
 

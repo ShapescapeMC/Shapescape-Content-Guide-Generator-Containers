@@ -1,0 +1,10 @@
+{
+	"description": "A filter reads all containers of a level and prints them in a content guide generator template file.",
+	"filters": [
+		{
+			"runWith": "python",
+			"script": "./main.py",
+			"name": "shapescape:cg_containers"
+		}
+	]
+}
